@@ -1,0 +1,7 @@
+Tiempo(s)	%CPU Libre	%Memoria Libre	%Disco Libre
+0s	6,5	15,29	55
+60s	9,4	15,28	55
+120s	9	15,27	55
+180s	6,8	15,26	55
+240s	11,3	15,26	55
+300s	7,4	15,26	55
